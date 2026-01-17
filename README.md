@@ -1,16 +1,19 @@
-## Hi there 👋
+Изучаю программирование и развиваюсь как full-stack / backend разработчик.  
+Интересуюсь алгоритмами, backend-разработкой, анализом данных и прикладными задачами.
 
-<!--
-**Deathlimit/Deathlimit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Языки программирования
+- 🐍 **Python**
+- ☕ **Java**
+- 💎 **Ruby**
+- 📊 **R**
+- ⚙️ **C++**
+- 🧩 **C#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Веб-разработка
+- **HTML**
+- **CSS**
+- **FastAPI**
+- **Django**
+  
